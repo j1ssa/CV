@@ -1,0 +1,364 @@
+/* IVS CSS Document */
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+		
+}
+
+.header1{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+}
+
+.pageHeader{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:14px;
+}
+
+.productNew{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:10px;
+}
+
+.pageIndentWhite{
+font-size:14px;
+font-family:Arial, Helvetica, sans-serif;
+text-indent: 15px;
+color: white;
+}
+
+.pageLeft{
+font-size:14px;
+font-family:Arial, Helvetica, sans-serif;
+text-align:justify;
+}
+
+.productHeader{
+font-size:20px;
+font-family:Arial, Helvetica, sans-serif;
+color:#060;
+}
+
+.productHeaderWhite{
+font-size:20px;
+font-family:Arial, Helvetica, sans-serif;
+color:white;
+}
+
+.pageContent{
+font-size:12px;
+font-family:Arial, Helvetica, sans-serif;
+text-align:justify;
+margin-right: 10px;
+}
+
+.marketingTable {
+        background-color: #fffffd;
+        border: 1px solid #cbc9ca;
+        font: 12px verdana, arial, helvetica, sans-serif;
+        width: 520px;        
+}
+
+.marketingTable th {
+        background-color: #3f0f06;
+        font: 14px verdana, arial, helvetica, sans-serif;
+        white-space: nowrap;
+        color: white;
+        font: bold;
+}
+
+.marketingTable td {
+        font-family: verdana, arial, helvetica, sans-serif;
+        padding-left: 2px;
+}
+
+.marketingTable tr.odd {
+        background-color: #fffffd;
+}
+
+.marketingTable tr.even {
+        background-color: #e5fbd6;
+}
+
+/* BEGIN - this is for the table of accounts*/
+.commonTable {
+        background-color: #fffffd;
+        border: 1px solid #cbc9ca;
+        font: 10px verdana, arial, helvetica, sans-serif;
+        width: 750px;        
+}
+
+.commonTable th {
+        background-color: #0c4206;
+        font: 12px verdana, arial, helvetica, sans-serif;
+        white-space: nowrap;
+        color: white;
+        font: bold;
+    }
+
+    .commonTable td {
+        font-family: verdana, arial, helvetica, sans-serif;
+        padding-left: 2px;
+    }
+
+    .commonTable tr.odd {
+        background-color: #fffffd;
+    }
+
+    .commonTable tr.even {
+        background-color: #e5fbd6;
+    }
+
+    .commonTable th a, .commonTable th a:visited {
+        text-align: left;
+    }
+
+    .commonTable th a:hover {
+        color: #fff284;
+        background-color: transparent;
+    }
+
+    .commonTable .order1 {
+        background-position: right;
+        background-image: url( ../images/sort/up.png );
+        background-repeat: no-repeat;
+    }
+
+    .commonTable .order2 {
+        background-position: right;
+        background-image: url( ../images/sort/down.png );
+        background-repeat: no-repeat;
+    }
+
+    .commonTable tr.rowMouseOver {
+        background-color: #ffffb5;
+    }
+    
+/* END - this is for the table of accounts*/
+
+.loginButton { 
+	font:bold 11px Tahoma,Arial;
+	background-color:#20023e;
+	color:#FFFFFF 
+}
+
+.ivsButton { 
+	font:bold 11px Tahoma,Arial;
+	background-color:#20023e;
+	color:#FFFFFF 
+}
+
+.rightBanner{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+}
+
+.leftText{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+}
+
+.error{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+color:red;
+}
+.success{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+color:green;
+}
+.newHeader{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+margin-left:10px;
+}
+.mandatoryField{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+color:blue;
+}
+
+.instruction{
+font-size:12px;
+color:#666666;
+font-family: Arial;
+
+margin-left:10px;
+margin-right:35px;
+}
+td.headerMarketing{
+font-size:13px;
+color:#666666;
+font-family: verdana;
+text-align:left;
+margin-left:50px;
+}
+.footer1{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color: white;
+}
+
+.geneologyName{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+}
+
+.geneologySmall{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:9px;
+}
+
+table{font-size:80%;}
+
+
+
+td.menu{
+background-color:#470189;
+}
+
+td.menu1{
+background-color:#085801;
+border-style:solid #ffffff;
+}
+
+
+
+table.menu1
+{
+font-size:12px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+position:absolute;
+visibility:hidden;
+background:#085801;
+}
+
+table.blue
+{
+background:#D2E4FC;
+}
+
+td.blue
+{
+background:#EBF2FD;
+}
+
+table.violet
+{
+background:#9B72CF;
+}
+
+td.violet
+{
+background:#F1F1FD;
+}
+
+.image1{border:none; border-style:none}
+
+.IndexBody{
+font-size:13px;
+color:black;
+font-family: Arial;
+text-align:justify;
+margin-left:25px;
+}
+
+.IndexBodyProduct{
+font-size:13px;
+color:#666666;
+font-family: Arial;
+text-align:left;
+margin-left:25px;
+}
+
+.Indent{
+font-size:12px;
+color:black;
+font-family: Arial;
+text-align:justify;
+margin-left:25px;
+margin-right:35px;
+}
+
+.ProductText{
+font-size:12px;
+color:black;
+font-family: Arial;
+text-align:justify;
+}
+
+
+.Indent2{
+font-size:11px;
+color:#666666;
+font-family: Arial;
+text-align:justify;
+margin-left:60px;
+margin-right:35px;
+}
+
+.LBannerHeading{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#ffffff;
+margin-left:5px;
+}
+
+.LBannerText{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:9px;
+color:black;
+margin-left:10px;
+}
+
+.Payout{
+font-size:12px;
+color:#666666;
+font-family: Arial;
+text-align:Left;
+}
+
+
+a.header1:link     	{text-decoration: none; color:white;}
+a.header1:visited  	{text-decoration: none; color:white;}
+a.header1:hover    	{color:#d1b5fe;}
+
+a.menu1:link     	{text-decoration: none; color:white;}
+a.menu1:visited  	{text-decoration: none; color:white;}
+a.menu1:hover    	{color:yellow;}
+
+a.footer1:link     	{text-decoration: none; color:white;}
+a.footer1:visited  	{text-decoration: none; color:white;}
+a.footer1:hover    	{color:yellow;}
+
+a.account:link     	{text-decoration: none; color:blue;}
+a.account:visited  	{text-decoration: none; color:blue;}
+a.account:hover    	{color:blue; text-decoration: underline;}
+
+a.product2:link     	{text-decoration: none; color:#055278;}
+a.product2:visited  	{text-decoration: none; color:#055278;}
+a.product2:hover    	{color:#055278; text-decoration: underline;}
+
+
+a.rightBanner:link     	{text-decoration: none; color:black;}
+a.rightBanner:visited  	{text-decoration: none; color:black;}
+a.rightBanner:hover    	{color:black; text-decoration: underline;}
+
+a:link     	{text-decoration: none; color:#104081; border-style:none}
+a:visited  	{text-decoration: none; color:#104081;}
+a:hover    	{color:#A949E6; text-decoration: underline;}
+
+a.geo:link     	{text-decoration: none; color:#C11B17; border-style:none}
+a.geo:visited  	{text-decoration: none; color:#C11B17;}
+a.geo:hover    	{color:#A949E6; font-size:12px; text-decoration: underline;}
+
+a.amount:link     	{text-decoration: none; color:#C11B17; border-style:none; margin-right:10px}
+a.amount:visited  	{text-decoration: none; color:#C11B17; margin-right:10px}
+a.amount:hover    	{color:#A949E6; font-size:12px; text-decoration: underline; margin-right:10px}
+
+a.image1:link     	{text-decoration: none}
+a.image1:visited  	{text-decoration: none}
+a.image1:hover    	{text-decoration: none}
